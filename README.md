@@ -1,2 +1,2 @@
-# google-colab
-codes done on google colaboratory
+# notebook
+codes done on google colaboratory and jupyter notebook
